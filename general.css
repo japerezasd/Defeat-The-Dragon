@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  width: 100%;
+  margin: 0px;
+  cursor: url('../MyFirstBaseTextGame/curser/curser.png'), auto;
+}p {
+  margin: 0px;
+  cursor: url('../MyFirstBaseTextGame/curser/curser.png'), auto;
+}
